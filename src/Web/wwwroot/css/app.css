@@ -18,6 +18,11 @@ body {
     z-index: 10;
 }
 
+.homepage-bg {
+    background-color: pink;
+    min-height: 100vh;
+}
+
 *,
 *::after,
 *::before {
